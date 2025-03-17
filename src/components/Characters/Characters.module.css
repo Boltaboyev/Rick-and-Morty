@@ -1,0 +1,16 @@
+.container{
+    width: 100%;
+    padding: 60px 40px;
+    display: flex;justify-content: center;
+    background-color: var(--bg-primary-color);
+}
+.wrapper{
+    width: 100%;
+
+}
+.box{
+   width: 100%;
+   display: grid; 
+   grid-template-columns: 1fr 1fr 1fr;
+   gap: 25px;
+}

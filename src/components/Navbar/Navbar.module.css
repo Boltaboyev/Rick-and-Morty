@@ -1,0 +1,36 @@
+.container {
+  padding: 15px 25px;
+  border: 1px solid rgba(46, 41, 51, 0.08);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.wrap {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+.item {
+  color: black;
+  font-size: 20px;
+  font-weight: 600;
+  text-decoration: none;
+}
+.item:hover{
+    color: var(--text-orange-color);
+}
+.btn {
+  border: 1px solid var(--text-orange-color);
+  border-radius: 8px;
+  color: black;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 10px 25px;
+  background: none;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.img{
+    width: 70px;
+    height: 40px;
+}

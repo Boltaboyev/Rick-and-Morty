@@ -1,0 +1,27 @@
+.card-container {
+  display: flex;
+  align-items: center;
+  border-radius: 8px;
+  background-color: var(--bg-secondary-color);
+}
+.title {
+    font-size: 25px;
+        color: var(--text-white-color);
+
+}
+.card-img {
+    height: 100%;
+    width: 40%;
+    border-radius: 8px 0px 0px 8px;
+}
+.descr {
+    color: var(--text-white-color);
+    margin-top: 3px;
+}
+.wrapper {
+    padding: 10px;
+}
+.subtitle {
+    color: var(--text-gray-color);
+    margin-top: 15px;
+}
