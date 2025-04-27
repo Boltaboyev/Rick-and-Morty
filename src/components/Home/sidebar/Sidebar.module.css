@@ -1,0 +1,27 @@
+.container{
+    height: calc(-60px + 100vh);
+    width: 350px;
+    padding: 20px 10px;
+    background-color:var(--bg-primary-color);
+    border-radius: 8px;
+    position: sticky;
+    top: 30px;
+}
+.header{
+    color: var(--text-white-color);
+}
+.items-wrapper{
+    margin-top: 20px;
+    overflow-y: scroll;
+    height: 90%;
+
+}
+.items{
+    margin-bottom: 8px;
+    padding: 10px;
+    border-radius: 4px;
+    margin-right: 8px;
+    background-color: var(--bg-secondary-color);
+    cursor: pointer;
+    color: white;
+}
