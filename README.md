@@ -7,6 +7,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white) 
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=react-query&logoColor=white)
+![react-beautiful-dnd](https://img.shields.io/badge/react--beautiful--dnd-00D9F6?style=flat&logo=react&logoColor=white)
 
 ## Features
 
